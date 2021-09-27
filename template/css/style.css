@@ -357,7 +357,7 @@ section:nth-child(even){
     border-bottom: none;
 }
 
-.content {
+.cbot {
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
